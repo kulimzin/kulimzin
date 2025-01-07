@@ -1,5 +1,5 @@
 ## About me  
-My name is Sergey Kulimzin, and I am a Frontend developer with over 4 years of experience. I specialize in creating adaptive and interactive user interfaces, optimizing performance, and ensuring application stability.
+My name is Sergei Kulimzin, and I am a Frontend developer with over 4 years of experience. I specialize in creating adaptive and interactive user interfaces, optimizing performance, and ensuring application stability.
 
 I have experience working with various development methodologies (Agile, Scrum) and excel at understanding and improving existing codebases. I actively enhance my skills, explore new technologies, and am always ready to share knowledge and experience with my team.
 
