@@ -8,7 +8,9 @@ My expertise in SEO, backend, and server technologies enables me to collaborate 
 ---
 
 ## Skills
-![Codewars](https://www.codewars.com/users/kulimzin.sergei/badges/large)
+<a href="https://www.codewars.com/users/kulimzin.sergei" target="_blank">
+  <img src="https://www.codewars.com/users/kulimzin.sergei/badges/large" alt="codewars badge" />
+</a>
 
 `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Redux`, `MobX`, `Webpack`, `Vite`, `Node.js`, `GraphQL`, `REST`, `Git`, `SCSS`, `SPA`, `Frontend`, `Docker`, `ES6`, `Jest`, `Apollo`, `REST API`, `React.js`, `Jenkins`, `JS`, `API`, `Next.js`, `GitHub`, `Agile`, `Effector`, `Styled Components`, `React-router`, `Axios`, `CSS Modules`, `Storybook`, `Rollup`, `Babel`, `Sass`, `Formik`, `React Query`, `Zustand`, `Recoil`, `Chakra UI`, `Vitest`, `Material UI`, `Tailwind`, `Prettier`, `ESLint`
 
